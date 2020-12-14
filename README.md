@@ -5,3 +5,4 @@ Dodatkowo można wykorzystać potwirdzenie logowania do zamka z bazą danych onl
 Można połączyć ten szyfr z generatorem sumy matematycznej skrutu generowanej z AI co włączenie komputera porównanie z naszym DNA w pamięci komputera zeskanowaniem głosu, twarzy i sekwencjonowania DNA jako NFC rozpoznanie urzytkowanika. Można łączyć z alexą AI. 
 Najlepiej to umieścić w module TPM bez urządzeń zewnetrznych na płycie gównej.  
 Można zablokować możliwość wejścia od strony internetu przez sieć internet lub zablokować logowanie się do komputera korzystanie z DVD i portów czy innych dróg wejścia zapomocą indyfikacji AI. 
+Dodać można rozpoznawanie osoby przez BCI. 
