@@ -6,3 +6,4 @@ Można połączyć ten szyfr z generatorem sumy matematycznej skrutu generowanej
 Najlepiej to umieścić w module TPM bez urządzeń zewnetrznych na płycie gównej.  
 Można zablokować możliwość wejścia od strony internetu przez sieć internet lub zablokować logowanie się do komputera korzystanie z DVD i portów czy innych dróg wejścia zapomocą indyfikacji AI. 
 Dodać można rozpoznawanie osoby przez BCI. 
+Można puszczać tunele SSH automatycznie tworząc VPN z generowanym automatycznie kluczem co jakiś czas. 
