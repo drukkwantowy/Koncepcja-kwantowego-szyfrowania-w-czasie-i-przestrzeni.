@@ -7,3 +7,4 @@ Najlepiej to umieścić w module TPM bez urządzeń zewnetrznych na płycie gów
 Można zablokować możliwość wejścia od strony internetu przez sieć internet lub zablokować logowanie się do komputera korzystanie z DVD i portów czy innych dróg wejścia zapomocą indyfikacji AI. 
 Dodać można rozpoznawanie osoby przez BCI. 
 Można puszczać tunele SSH automatycznie tworząc VPN z generowanym automatycznie kluczem co jakiś czas. 
+Klucz może być zmienny dynamiczny dzięki AI. 
