@@ -9,3 +9,4 @@ Dodać można rozpoznawanie osoby przez BCI.
 Można puszczać tunele SSH automatycznie tworząc VPN z generowanym automatycznie kluczem co jakiś czas. 
 Klucz może być zmienny dynamiczny dzięki AI. 
 Dynamiczne kwantowe magiczne szyfrowanie generowane dynamicznie przez AI można stosować w przeglądarkach jak Tor i inne. 
+Jako klucz kwantowy nie do złamania można stosować kryptowaluty i cały mechanizm szyfrowania. 
